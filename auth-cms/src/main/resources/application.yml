@@ -9,9 +9,9 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://rm-bp19rj3x6f3gw6389ao.mysql.rds.aliyuncs.com:3306/gusteau-cv?useUnicode=true&characterEncoding=UTF-8&failOverReadOnly=false&autoReconnect=true&serverTimezone=Asia/Shanghai&allowMultiQueries=true
-    username: xcydba
-    password: Xcy_dba_2017
+    url: jdbc:mysql://cx/gusteau-cv?useUnicode=true&characterEncoding=UTF-8&failOverReadOnly=false&autoReconnect=true&serverTimezone=Asia/Shanghai&allowMultiQueries=true
+    username: xxx
+    password: xxx
   devtools:
     add-properties: false
 
